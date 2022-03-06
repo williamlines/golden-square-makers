@@ -61,8 +61,6 @@ what you did in the last exercise.
 Copy and fill out [this template](../resources/single_method_recipe_template.md)
 for each of the below exercises.
 
-<!-- OMITTED -->
-
 ## Demonstration
 
 [A video demonstration](https://www.youtube.com/watch?v=3VwGSAOZ5sc&t=2374s)

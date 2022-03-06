@@ -57,7 +57,7 @@ Implementing behaviour is roughly the same as for methods, though we will place
 more emphasis on building the examples and behaviour in small steps due to the
 increased complexity of single-class tests.
 
-[A video demonstration](...)
+[A video demonstration](https://www.youtube.com/watch?v=sRAtinfld-w&t=0s)
 
 ## Exercise
 
@@ -101,7 +101,7 @@ class DiaryEntry
 end
 ```
 
-[A video demonstration](...)
+[Example Solution](https://www.youtube.com/watch?v=sRAtinfld-w&t=820s)
 
 ## Challenge
 

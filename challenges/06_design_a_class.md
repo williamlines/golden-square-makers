@@ -58,11 +58,9 @@ the updated recipe:
 Copy and fill out [this template](../resources/single_class_recipe_template.md)
 for each of the below exercises.
 
-<!-- OMITTED -->
-
 ## Demonstration
 
-[A video demonstration](...)
+[A video demonstration](https://www.youtube.com/watch?v=sRAtinfld-w&t=2385s)
 
 <!-- OMITTED -->
 
@@ -81,7 +79,7 @@ project. Both of these will be within a single class.
 
 Don't worry about user input & output here.
 
-[Example Solution](...)
+[Example Solution](https://www.youtube.com/watch?v=sRAtinfld-w&t=3760s)
 
 ## Challenge
 

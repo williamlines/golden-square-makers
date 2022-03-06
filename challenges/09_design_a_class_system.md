@@ -40,6 +40,9 @@ Here's our Multi-Class Planned Design Recipe
 > to achieve the job of the program. You can use diagrams to visualise the
 > relationships between classes.
 > 
+> Consider pulling out the key verbs and nouns in the problem description to
+> help you figure out which classes and methods to have.
+> 
 > Steps 3, 4, and 5 then operate as a cycle.
 > 
 > ## 3. Create Examples as Integration Tests

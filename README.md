@@ -47,9 +47,9 @@ object-oriented design, and debugging practices.
 2. [Test Drive a Single-Method Program](challenges/02_test_drive_a_single_method.md)
 3. [Design a Single-Method Program](challenges/03_design_a_single_method.md)
 4. [Intermezzo: Debugging 1](challenges/04_intermezzo_debugging_1.md)
-5. [Test Drive a Class](challenges/05_test_drive_a_class.md) :construction:
+5. [Test Drive a Class](challenges/05_test_drive_a_class.md)
 6. [Design a Class](challenges/06_design_a_class.md)
-7. [Intermezzo: Debugging 2](challenges/07_intermezzo_debugging_2.md)
+7. [Intermezzo: Debugging 2](challenges/07_intermezzo_debugging_2.md) :construction:
 8. [Test Drive a Class System](challenges/08_test_drive_a_class_system.md)
 9. [Design a Class System](challenges/09_design_a_class_system.md)
 10. [Adventure](challenges/10_adventure.md)
