@@ -52,7 +52,7 @@ object-oriented design, and debugging practices.
 
 ### Phase Three: Project
 
-A project to tackle solo to test your skills.
+[A project to tackle solo to test your skills.](projects/README.md)
 
 If you finish this, send your coach a message. Share with them anything you
 would like to work on or a skill you would like to train and they will guide
