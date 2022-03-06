@@ -7,7 +7,7 @@ Learn to debug interactively.
 
 ## Introduction
 
-[This is a bit easier to follow on the video.](...)
+[This is a bit easier to follow on the video.](https://youtu.be/gg_xGT2pjSk)
 
 Earlier we introduced the idea of **Discovery Debugging** and getting visibility
 using `p` to print out values in the program and follow the flow of execution.
