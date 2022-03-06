@@ -1,5 +1,8 @@
 # Intermezzo: Debugging 2
 
+_**This is a Makers Vine.** Vines are designed to gradually build up sophisticated skills. They contain a mixture of text and video, and may contain some challenge exercises without proposed solutions. [Read more about how to use Makers
+Vines.](https://github.com/makersacademy/course/blob/main/labels/vines.md)_
+
 Learn to debug interactively.
 
 ## Introduction
