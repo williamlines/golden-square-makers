@@ -69,9 +69,7 @@ other three practices — enables you to use your brain much more effectively.
 
 ## Demonstration
 
-[A video demonstration](...)
-
-<!-- OMITTED -->
+[A video demonstration](https://www.youtube.com/watch?v=3VwGSAOZ5sc&t=0s)
 
 ## Exercise
 
@@ -95,7 +93,7 @@ stick to the test-driving process.
 5. Refactor if necessary.
 6. Return to step 1 and keep going until your program is complete.
 
-[Example solution](...)
+[Example solution](https://www.youtube.com/watch?v=3VwGSAOZ5sc&t=1875s)
 
 ## Challenge
 
