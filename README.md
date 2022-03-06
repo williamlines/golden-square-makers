@@ -13,9 +13,13 @@ In this module your objectives are:
   pairing are powerful practices for software engineers.
 
 You will achieve these by working through a sequence of exercises and
-challenges.
+challenges over two weeks.
 
 ## Sequence
+
+**Some of these materials are still under development. The :construction: emoji
+indicates where material after this may be incomplete. It will be fully complete
+within a week.**
 
 ### Phase Zero: The Golden Square Practices
 
@@ -43,7 +47,7 @@ object-oriented design, and debugging practices.
 2. [Test Drive a Single-Method Program](challenges/02_test_drive_a_single_method.md)
 3. [Design a Single-Method Program](challenges/03_design_a_single_method.md)
 4. [Intermezzo: Debugging 1](challenges/04_intermezzo_debugging_1.md)
-5. [Test Drive a Class](challenges/05_test_drive_a_class.md)
+5. [Test Drive a Class](challenges/05_test_drive_a_class.md) :construction:
 6. [Design a Class](challenges/06_design_a_class.md)
 7. [Intermezzo: Debugging 2](challenges/07_intermezzo_debugging_2.md)
 8. [Test Drive a Class System](challenges/08_test_drive_a_class_system.md)
@@ -57,8 +61,6 @@ object-oriented design, and debugging practices.
 If you finish this, send your coach a message. Share with them anything you
 would like to work on or a skill you would like to train and they will guide
 you.
-
-<!-- OMITTED -->
 
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

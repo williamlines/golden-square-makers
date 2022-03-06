@@ -70,6 +70,8 @@ end
 
 ## Interlude: Methodical Debugging
 
+_[A condensed video explanation of this section is here.](https://www.youtube.com/watch?v=JnoTLn2HYXE&t=0s)_
+
 Exercise 2 probably felt hard. Most bugs are so easy we can solve them without
 thinking. But most of the _time_ you spend debugging will be on the hard bugs.
 
@@ -108,9 +110,21 @@ complex, Discovery Debugging is the right tool.
 Our most powerful tool for Discovery Debugging is 'getting visibility' — using
 `p` to print out values in the program.
 
-[A video demonstration](...)
+[Here is a demonstration of Getting Visibility](https://www.youtube.com/watch?v=JnoTLn2HYXE&t=353s). You may find the below code useful to refer to.
 
-<!-- OMITTED -->
+```ruby
+def factorial(n)
+  product = 1
+  p "at the start product is #{product}"
+  while n > 0
+    n -= 1
+    p "we multiply #{product} by #{n}"
+    product *= n
+    p "we get #{product}"
+  end
+  product
+end
+```
 
 ## Exercise
 
@@ -142,7 +156,7 @@ end
 # => "theswiftfoxjumpedoverthelazydog"
 ```
 
-[Example Solution](...)
+[Example Solution](https://www.youtube.com/watch?v=JnoTLn2HYXE&t=985s)
 
 ## Challenge
 
