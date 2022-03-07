@@ -39,7 +39,8 @@ To set up a new RSpec project:
 ; git commit -m "Project setup"
 
 # Then go and create a repository on github.com
-# And follow the "Push an existing repository from the command line" section
+# On the next screen after you have created the repository,
+# follow the "Push an existing repository from the command line" section
 # To push your project to your github repository
 # It will look something like this...
 ; git remote add origin YOUR_REMOTE_ADDRESS
