@@ -21,7 +21,7 @@ Here is a short guide on how to pair. There are five steps:
 5. [Pair!](#step-4-pair)
 6. [Reflect](#step-5-reflect)
 
-<!-- OMITTED -->
+[There's also a video of some real-world pairing if you want to see how it works in industry.](#a-professional-example)
 
 ## Step 0: Get to know each other
 
@@ -109,7 +109,21 @@ At the end of the day, ask each other:
 You can then have a short discussion about why. It doesn't need to be perfect
 every time, everyone has bad pairing sessions.
 
-<!-- OMITTED -->
+## A Professional Example
+
+If you'd like to get an idea of what pairing is like for experienced engineers,
+[here is a composite video of a coach (Kay) and an engineer (Rainer)
+pairing](https://www.youtube.com/watch?v=_KdWFxNqei8). It's a long watch, so
+mark it for a quiet time.
+
+Note that:
+
+* They spend some time setting up the session and getting to know how each other
+  works.
+* Neither of them are perfect pairs. There are moments of confusion and
+  misalignment.
+* They place a lot of time on communication, building shared understanding of
+  the system and joint attention on the task.
 
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
