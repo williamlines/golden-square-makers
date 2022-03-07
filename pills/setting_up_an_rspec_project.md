@@ -17,7 +17,11 @@ To set up a new RSpec project:
 # This assumes you have Ruby & RVM installed. If you don't, visit:
 # https://rvm.io/ to install RVM.
 
-# First we're going to get you the latest Ruby
+# First, create a directory for your project
+; mkdir your-project-directory
+; cd your-project-directory
+
+# Then, we're going to get you the latest Ruby
 ; rvm get stable
 ; rvm use ruby --latest --install --default
 
