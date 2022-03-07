@@ -1,6 +1,6 @@
 # Setting Up RSpec
 
-_[A video demonstration is here.](https://www.youtube.com/watch?v=wHkVhq5R0_8&t=600s)_
+_[A video demonstration is here.](https://www.youtube.com/watch?v=wHkVhq5R0_8&t=600s)_ **If you follow this directly, make sure you create a new directory and run the commands in that directory. This will be updated in the video shortly.**
 
 Learn to set up a new RSpec project.
 
