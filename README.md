@@ -21,10 +21,14 @@ challenges over two weeks.
 indicates where material after this may be incomplete. It will be fully complete
 within a week.**
 
+<!-- OMITTED -->
+
 ### Phase Zero: The Golden Square Practices
 
 Review these so that you can refer back to them as you work through the
 challenges.
+
+<!-- OMITTED -->
 
 1. [A concise explanation of The Golden Square](pills/the_golden_square.md)
 2. [Just Enough Git to Get Started](pills/just_enough_git.md)

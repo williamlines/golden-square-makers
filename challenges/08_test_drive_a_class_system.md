@@ -7,7 +7,7 @@ Learn to test-drive a multi-class program.
 
 ## Introduction
 
-[This is a bit easier to follow on the video.](...)
+[This is a bit easier to follow on the video.](https://www.youtube.com/watch?v=eRniAN07Eow&t=0s)
 
 In these challenges we started off test-driving a single method. Then we moved
 to test-driving a class, which incorporated multiple methods. Now we will move
@@ -23,6 +23,8 @@ behaviour to match those examples.
 Consider the following design for a music library.
 
 ```ruby
+# File: lib/music_library.rb
+
 class MusicLibrary
   def initialize
     # ...
@@ -41,6 +43,10 @@ class MusicLibrary
     # Returns a list of tracks with titles that include the keyword
   end
 end
+```
+
+```ruby
+# File: lib/track.rb
 
 class Track
   def initialize(title, artist) # title and artist are both strings
@@ -267,7 +273,7 @@ class DiaryEntry
 end
 ```
 
-[Example solution.](...)
+[Example solution.](https://www.youtube.com/watch?v=eRniAN07Eow&t=1400s)
 
 ## Challenge
 
