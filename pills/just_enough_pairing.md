@@ -12,7 +12,7 @@ reasons:
 
 I have seen very capable engineers burn out due to the last one — be warned!
 
-Here is a short guide on how to pair. There are five steps:
+Here is a short guide on how to pair. There are six steps:
 
 1. [Get to know each other](#step-0-get-to-know-each-other)
 2. [Decide where to work](#step-1-decide-where-to-work)
