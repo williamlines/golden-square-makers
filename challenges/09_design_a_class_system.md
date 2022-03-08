@@ -113,7 +113,7 @@ Some pointers:
   using `gets` and only use `puts` for debugging purposes.
 
 There are many ways to solve this exercise, but [here is an example
-solution.](https://www.youtube.com/watch?v=CkyhW3pNTUY&t=2046s) :construction: Bear in mind that once you look at it, you may be
+solution.](https://www.youtube.com/watch?v=CkyhW3pNTUY&t=2046s) Bear in mind that once you look at it, you may be
 influenced by my approach and this may affect how much learning you can get from
 this exercise. That said, I trust you to make the right decision.
 
