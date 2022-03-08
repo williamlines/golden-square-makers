@@ -15,7 +15,7 @@ Here is a final project to test your skills:
 > I would like to see an itemised receipt with a grand total.
 
 This next one will involve you doing some mocking. If you didn't pick that path
-in the challenges, review [this video](...) when you get to the random part.
+in the challenges, review [this video](...) :construction: when you get to the random part.
 
 > As a takeaway owner  
 > So that I can get customer loyalty  

@@ -71,13 +71,9 @@ Here's our Multi-Class Planned Design Recipe
 Copy and fill out [this template](../resources/multi_class_recipe_template.md)
 for each of the below exercises.
 
-<!-- OMITTED -->
-
 ## Demonstration
 
-[A video demonstration](...)
-
-<!-- OMITTED -->
+[A video demonstration](https://www.youtube.com/watch?v=CkyhW3pNTUY&t=0s)
 
 ## Exercise
 
@@ -117,9 +113,9 @@ Some pointers:
   using `gets` and only use `puts` for debugging purposes.
 
 There are many ways to solve this exercise, but [here is an example
-solution.](...) Bear in mind that once you look at it, you may be influenced by
-my approach and this may affect how much learning you can get from this
-exercise. That said, I trust you to make the right decision.
+solution.](https://www.youtube.com/watch?v=CkyhW3pNTUY&t=2046s) :construction: Bear in mind that once you look at it, you may be
+influenced by my approach and this may affect how much learning you can get from
+this exercise. That said, I trust you to make the right decision.
 
 
 [Next Challenge](10_adventure.md)

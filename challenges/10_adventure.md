@@ -8,21 +8,17 @@ You can take a number of paths through the material below. In each you will
 learn different things. Choose based on which most appeals to you, and with the
 trust that there is nothing here that you can't learn later if you need to.
 
-## Testing Uncontrollable Dependencies
+:construction: Currently under construction. :construction:
 
-## Isolating Your Tests
+/**
 
-## Class Extraction
-
-## Emergent Design
-
-## Private Methods
-
-## Design Principles: Separation of Concerns
-
-## Design Principles: Coupling and Cohesion
-
-## Debugging: Stack Traces
+* [Unit Testing in Isolation](adventure/unit_testing_in_isolation.ed.md)
+* [Class Extraction](adventure/class_extraction.ed.md)
+* [Emergent Design](adventure/emergent_design.ed.md)
+* [Private Methods](adventure/private_methods.ed.md)
+* [Design Principles: Separation of Concerns](adventure/separation_of_concerns.ed.md)
+* [Design Principles: Coupling and Cohesion](adventure/coupling_and_cohesion.ed.md)
+* [Debugging: Stack Traces](adventure/stack_traces.ed.md)
 
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
