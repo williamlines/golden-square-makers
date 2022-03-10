@@ -42,7 +42,7 @@ A series of exercises designed to help you learn how to write tests with RSpec.
 2. [Testing Classes With Equality](bites/02_testing_classes_with_equality_bite.md)
 3. [Testing For Errors](bites/03_testing_for_errors_bite.md)
 
-### Phase Two: Challenges
+### Phase Two: Skill Challenges
 
 A series of challenges designed to help you learn a strong test-driving,
 object-oriented design, and debugging practices.
@@ -56,15 +56,21 @@ object-oriented design, and debugging practices.
 7. [Intermezzo: Debugging 2](challenges/07_intermezzo_debugging_2.md)
 8. [Test Drive a Class System](challenges/08_test_drive_a_class_system.md) 
 9. [Design a Class System](challenges/09_design_a_class_system.md)
-10. [Adventure](challenges/10_adventure.md) :construction:
 
-### Phase Three: Project
+<!-- OMITTED -->
+
+### Phase Four: Project
 
 [A project to tackle solo to test your skills.](projects/README.md) :construction:
 
-If you finish this, send your coach a message. Share with them anything you
-would like to work on or a skill you would like to train and they will guide
-you.
+If you finish this, send your coach a message to let them know.
+
+### Phase Five: Further Projects
+
+Take on one of these projects, or agree a different one with your coach.
+
+* [Battleships](codebases/battleships)
+
 
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

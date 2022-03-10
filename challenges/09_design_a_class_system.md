@@ -118,8 +118,6 @@ influenced by my approach and this may affect how much learning you can get from
 this exercise. That said, I trust you to make the right decision.
 
 
-[Next Challenge](10_adventure.md)
-
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---
