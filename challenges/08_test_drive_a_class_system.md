@@ -201,7 +201,11 @@ tests. This may make some of your unit tests quite small, which is OK.
 
 ## Exercise
 
-Test-drive a class system based on this design:
+Test-drive a class system based on this design.
+
+This is quite a bit to think about — so I suggest making a list of examples for
+your integration tests first in a text file, before you start on test-driving,
+to make sure you've thought through the full system.
 
 ```ruby
 # File: lib/diary.rb
