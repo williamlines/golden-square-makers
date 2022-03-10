@@ -97,7 +97,7 @@ Follow the design recipe to implement the following user story in your project:
 
 > As a user  
 > So that I can keep track of my tasks  
-> I want to check if a text includes the string `@TODO`.
+> I want to check if a text includes the string `#TODO`.
 
 
 [Next Challenge](04_intermezzo_debugging_1.md)
