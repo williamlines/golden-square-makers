@@ -204,6 +204,7 @@ tests. This may make some of your unit tests quite small, which is OK.
 Test-drive a class system based on this design:
 
 ```ruby
+# File: lib/diary.rb
 class Diary
   def initialize
   end
@@ -213,11 +214,12 @@ class Diary
   end
 
   def all
-    # Returns a list of all entries
+    # Returns a list of instances of DiaryEntry
   end
 
   def count_words
     # Returns the number of words in all diary entries
+    # HINT: This method should make use of the `count_words` method on DiaryEntry.
   end
 
   def reading_time(wpm) # wpm is an integer representing
@@ -237,6 +239,7 @@ class Diary
   end
 end
 
+# File: lib/diary_entry.rb
 class DiaryEntry
   def initialize(title, contents) # title, contents are strings
     # ...
@@ -280,6 +283,7 @@ end
 Test-drive a class system based on this design:
 
 ```ruby
+# File: lib/todo_list.rb
 class TodoList
   def initialize
   end
@@ -301,6 +305,7 @@ class TodoList
   end
 end
 
+# File: lib/todo.rb
 class Todo
   def initialize(task) # task is a string
     # ...
