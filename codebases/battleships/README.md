@@ -1,7 +1,7 @@
 # Battleships Project
 
-This is a project designed to challenge all of your skills so far. **It is
-designed to be difficult for most learners on the Makers immersive course.**
+This is a project aimed to develop all of your skills so far. **It is designed
+to be challenging for most learners on the Makers immersive course.**
 
 Your assignment is to design and test-drive a terminal-based Battleships game. A
 small amount of code is already written, to get you started and show you the
