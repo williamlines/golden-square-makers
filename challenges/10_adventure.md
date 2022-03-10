@@ -5,7 +5,7 @@ module.
 
 There will be more challenges available here next week covering more advanced
 areas of testing and design. Until then, head back to the [Golden Square
-Outline](../README.ed.md) and take on the Project, the Further Projects, or ask
+Outline](../README.md) and take on the Project, the Further Projects, or ask
 your coach for advice.
 
 
