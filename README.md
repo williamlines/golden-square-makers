@@ -17,18 +17,12 @@ challenges over two weeks.
 
 ## Sequence
 
-**Some of these materials are still under development. The :construction: emoji
-indicates where material after this may be incomplete. It will be fully complete
-within a week.**
-
-<!-- OMITTED -->
+Work through each of these exercises in sequence.
 
 ### Phase Zero: The Golden Square Practices
 
-Review these so that you can refer back to them as you work through the
-challenges.
-
-<!-- OMITTED -->
+This is reference material. Review each of these so that you can refer back to
+them as you work through the challenges.
 
 1. [A concise explanation of The Golden Square](pills/the_golden_square.md)
 2. [Just Enough Git to Get Started](pills/just_enough_git.md)
@@ -36,16 +30,17 @@ challenges.
 
 ### Phase One: Testing Bites
 
-A series of exercises designed to help you learn how to write tests with RSpec.
+Work through this series of exercises designed to help you learn how to write
+tests with RSpec.
 
-1. [Testing Methods With Equality](bites/01_testing_methods_with_equality_bite.md)
-2. [Testing Classes With Equality](bites/02_testing_classes_with_equality_bite.md)
-3. [Testing For Errors](bites/03_testing_for_errors_bite.md)
+1. [Testing Methods With Equality](testing_bites/01_testing_methods_with_equality_bite.md)
+2. [Testing Classes With Equality](testing_bites/02_testing_classes_with_equality_bite.md)
+3. [Testing For Errors](testing_bites/03_testing_for_errors_bite.md)
 
 ### Phase Two: Skill Challenges
 
-A series of challenges designed to help you learn a strong test-driving,
-object-oriented design, and debugging practices.
+Work through this series of challenges designed to help you learn a strong
+test-driving, object-oriented design, and debugging practices.
 
 1. [Create Your Project](challenges/01_create_your_project.md)
 2. [Test Drive a Single-Method Program](challenges/02_test_drive_a_single_method.md)
@@ -57,19 +52,31 @@ object-oriented design, and debugging practices.
 8. [Test Drive a Class System](challenges/08_test_drive_a_class_system.md) 
 9. [Design a Class System](challenges/09_design_a_class_system.md)
 
+### Phase Three: Mocking Bites
+
+Work through this series of exercises designed to help you learn how to isolate
+tests using RSpec.
+
+1. [Unit Testing Parent-Child Classes](mocking_bites/01_unit_testing_parent_child_classes.md)
+2. [Crafting Doubles](mocking_bites/02_crafting_doubles_bite.md)
+3. [Unit Testing Peer Classes](mocking_bites/02_unit_testing_peer_classes_bite.md)
+4. [Unit Testing API Requests](mocking_bites/01_unit_testing_api_requests_bite.md)
+5. [Unit Testing Terminal IO](mocking_bites/01_unit_testing_terminal_io_bite.md)
+
+### Phase Four: Solo Project
+
+Do this project solo. It is designed to help you test all of your skills.
+
+[Takeaway Project](projects/README.md)
+
 <!-- OMITTED -->
 
-### Phase Four: Project
+### Phase Five: Challenge Project
 
-[A project to tackle solo to test your skills.](projects/README.md) :construction:
+Optionally, do this extra tricky challenge project designed for engineers who
+reach the end of the sequence and want to really test their skills.
 
-If you finish this, send your coach a message to let them know.
-
-### Phase Five: Further Projects
-
-Take on one of these projects, or agree a different one with your coach.
-
-* [Battleships](codebases/battleships)
+[Battleships Challenge](codebases/battleships)
 
 
 

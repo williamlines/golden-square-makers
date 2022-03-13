@@ -1,6 +1,6 @@
-# End-Of-Module Project
+# Solo Project
 
-Here is a final project to test your skills:
+Here is a project to test your golden square skills overall:
 
 > As a customer  
 > So that I can check if I want to order something  
@@ -14,16 +14,8 @@ Here is a final project to test your skills:
 > So that I can verify that my order is correct  
 > I would like to see an itemised receipt with a grand total.
 
-This next one will involve you doing some mocking. If you didn't pick that path
-in the challenges, review [this video](...) :construction: when you get to the random part.
-
-> As a takeaway owner  
-> So that I can get customer loyalty  
-> I would like a random 5% of my customers to get 50% off their order.
-
-## For extra challenge
-
-Use the `twilio-ruby` gem to implement this:
+Use the `twilio-ruby` gem to implement this next one. You will need to use
+doubles too.
 
 > As a customer  
 > So that I am reassured that my order will be delivered on time  
