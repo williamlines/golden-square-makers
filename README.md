@@ -25,7 +25,7 @@ This is reference material. Review each of these so that you can refer back to
 them as you work through the challenges.
 
 1. [A concise explanation of The Golden Square](pills/the_golden_square.md)
-2. [Just Enough Git to Get Started](pills/just_enough_git.md)
+2. [Just Enough Git to Get Started](pills/just_enough_git.md) <!-- OMITTED -->
 3. [Just Enough Structure To Pair](pills/just_enough_pairing.md)
 
 ### Phase One: Testing Bites
@@ -42,15 +42,20 @@ tests with RSpec.
 Work through this series of challenges designed to help you learn a strong
 test-driving, object-oriented design, and debugging practices.
 
+Some of these challenges include [Process Feedback
+Challenges](pills/process_feedback_challenges.md), in which you record yourself
+performing the task and share it with your coach for feedback. These are tagged
+with a :satellite:.
+
 1. [Create Your Project](challenges/01_create_your_project.md)
 2. [Test Drive a Single-Method Program](challenges/02_test_drive_a_single_method.md)
-3. [Design a Single-Method Program](challenges/03_design_a_single_method.md)
+3. [Design a Single-Method Program](challenges/03_design_a_single_method.md) :satellite:
 4. [Intermezzo: Debugging 1](challenges/04_intermezzo_debugging_1.md)
 5. [Test Drive a Class](challenges/05_test_drive_a_class.md)
-6. [Design a Class](challenges/06_design_a_class.md)
+6. [Design a Class](challenges/06_design_a_class.md) :satellite:
 7. [Intermezzo: Debugging 2](challenges/07_intermezzo_debugging_2.md)
 8. [Test Drive a Class System](challenges/08_test_drive_a_class_system.md) 
-9. [Design a Class System](challenges/09_design_a_class_system.md)
+9. [Design a Class System](challenges/09_design_a_class_system.md) :satellite:
 
 ### Phase Three: Mocking Bites
 
@@ -68,8 +73,6 @@ tests using RSpec.
 Do this project solo. It is designed to help you test all of your skills.
 
 [Takeaway Project](projects/README.md)
-
-<!-- OMITTED -->
 
 ### Phase Five: Challenge Project
 

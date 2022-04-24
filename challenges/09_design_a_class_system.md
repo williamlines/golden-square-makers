@@ -77,6 +77,10 @@ for each of the below exercises.
 
 ## Exercise
 
+**This is a process feedback challenge.** That means you should record yourself
+doing it and submit that recording to your coach for feedback. [How do I do
+this?](../pills/feedback_challenges.md)
+
 This is the big one! You might want to start a new RSpec project for this.
 
 Use object-oriented design and test-driven development, backed up by your
@@ -112,10 +116,16 @@ Some pointers:
 * Don't worry about user interface or input-output. That means you shouldn't be
   using `gets` and only use `puts` for debugging purposes.
 
+After you're done, [submit your recording
+here.](https://airtable.com/shrNFgNkPWr3d63Db?prefill_Item=gs_as03)
+
+## Example Solution
+
 There are many ways to solve this exercise, but [here is an example
-solution.](https://www.youtube.com/watch?v=CkyhW3pNTUY&t=2046s) Bear in mind that once you look at it, you may be
-influenced by my approach and this may affect how much learning you can get from
-this exercise. That said, I trust you to make the right decision.
+solution.](https://www.youtube.com/watch?v=CkyhW3pNTUY&t=2046s) Bear in mind
+that once you look at it, you may be influenced by my approach and this may
+affect how much learning you can get from this exercise. That said, I trust you
+to make the right decision.
 
 
 [Next Challenge](10_adventure.md)
