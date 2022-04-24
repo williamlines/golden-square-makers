@@ -95,7 +95,7 @@ now, you'll get the hang of it.
 
 **This is a process feedback challenge.** That means you should record yourself
 doing it and submit that recording to your coach for feedback. [How do I do
-this?](../pills/feedback_challenges.md)
+this?](../pills/process_feedback_challenges.md)
 
 Follow the design recipe to implement the following user story in your project:
 
