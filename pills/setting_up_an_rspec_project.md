@@ -1,8 +1,12 @@
 # Setting Up RSpec
 
-_[A video demonstration is here.](https://www.youtube.com/watch?v=wHkVhq5R0_8&t=600s)_ **If you follow this directly, make sure you create a new directory and run the commands in that directory. This will be updated in the video shortly.**
+_[A video demonstration is
+here.](https://www.youtube.com/watch?v=wHkVhq5R0_8&t=600s)_ **If you follow this
+directly, make sure you create a new directory and run the commands in that
+directory.**
 
-_[Here is a workshop demonstration of the pairing flow](https://youtu.be/uLbPGE6pRdc)_
+_[Here is a workshop demonstration of the pairing
+flow](https://youtu.be/uLbPGE6pRdc)_
 
 <!-- OMITTED -->
 

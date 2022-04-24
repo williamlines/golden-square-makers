@@ -25,8 +25,10 @@ This is reference material. Review each of these so that you can refer back to
 them as you work through the challenges.
 
 1. [A concise explanation of The Golden Square](pills/the_golden_square.md)
-2. [Just Enough Git to Get Started](pills/just_enough_git.md) <!-- OMITTED -->
+2. [Just Enough Git to Get Started](pills/just_enough_git.md)
 3. [Just Enough Structure To Pair](pills/just_enough_pairing.md)
+
+<!-- OMITTED -->
 
 ### Phase One: Testing Bites
 
