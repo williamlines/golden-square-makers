@@ -45,6 +45,9 @@ To set up a new RSpec project:
 # Generate an RSpec template
 ; rspec --init
 
+# Create a folder for your implementation code
+; mkdir lib
+
 # And create a repository for your changes
 ; git init .
 ; git add .

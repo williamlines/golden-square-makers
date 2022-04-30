@@ -44,6 +44,25 @@ Finished in 0.00471 seconds (files took 0.12319 seconds to load)
 1 example, 0 failures
 ```
 
+<details>
+  <summary>My RSpec says <code>0 examples</code> :confused:</summary>
+
+  Have you put `add_five.rb` into the `lib/` directory? That's necessary for
+  RSpec to find that file. Your project structure should look something like
+  this:
+
+  ```
+  .
+  ├── Gemfile
+  ├── Gemfile.lock
+  ├── lib
+  │   └── add_five.rb
+  └── spec
+      ├── add_five_spec.rb
+      └── spec_helper.rb
+  ```
+</details>
+
 Then, if the method is broken in some way, the test fails.
 
 ```ruby
@@ -127,6 +146,26 @@ end
 ```
 
 Write a test for this method.
+
+<details>
+  <summary>My RSpec keeps saying <code>0 examples</code> :confused:</summary>
+
+  Have you put `greet.rb` into the `lib/` directory? That's necessary for
+  RSpec to find that file. Your project structure should look something like
+  this:
+
+  ```
+  .
+  ├── Gemfile
+  ├── Gemfile.lock
+  ├── lib
+  │   └── greet.rb
+  └── spec
+      ├── greet_spec.rb
+      └── spec_helper.rb
+  ```
+</details>
+
 
 ### Two
 
