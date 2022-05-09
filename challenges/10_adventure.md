@@ -1,12 +1,9 @@
 # Adventure
 
-If you've reached here, you've completed all the core challenges for this
-module.
+You've completed all the challenges for this phase. Well done!
 
-There will be more challenges available here next week covering more advanced
-areas of testing and design. Until then, head back to the [Golden Square
-Outline](../README.md) and take on the Project, the Further Projects, or ask
-your coach for advice.
+Head back to the [Golden Square Outline](../README.md), take on the Mocking
+Bites and then the Project.
 
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
